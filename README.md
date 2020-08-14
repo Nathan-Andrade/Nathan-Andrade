@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Nathan de Andrade
 
 <!--
 **Nathan-Andrade/Nathan-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## A Fullstack Web Development student and focused on helping people
+ 
+
+- 🌱 I’m currently learning <strong> Nodejs, Reactjs e React Native </strong>
+- 💬 Ask me about <strong> HTML5, CSS3, JavaScript </strong>
+- 📫 How to reach me: nathandulino2003@gmail.com
+
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
