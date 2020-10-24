@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/nathan-a-1b9436124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
 <a href="https://www.facebook.com/nathandulino.dulino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
-<a href="https://www.instagram.com/dulinodev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
+<a href="https://www.instagram.com/nathanandrade.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
 </p>
