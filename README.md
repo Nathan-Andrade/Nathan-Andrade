@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <p align="left">
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB.svg?logo=React&logoColor=white&style=flat-square" />
 </p>
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Andrade&layout=compact"/> 
