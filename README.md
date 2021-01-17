@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A Fullstack Web Development student and focused on helping people
- 
 
-- 🌱 I’m currently learning <strong> Nodejs, Reactjs e React Native </strong>
-- 💬 Ask me about <strong> HTML5, CSS3, JavaScript </strong>
-- 📫 How to reach me: nathandulino2003@gmail.com
-
+<h3>Ask me about</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-ec6231.svg?logo=Html5&style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-007acc.svg?logo=Css3&style=flat-square" />
@@ -28,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Bootstrap-8a2be2.svg?logo=Bootstrap&style=flat-square&logoColor=white" />
 </p>
 
-<h3>Learning</h3>
+<h3>I'm currently Learning</h3>
 <p align="left">
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
@@ -42,6 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+- 📫 How to reach me: <a href="mailto:nathandulino2003@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/nathan-a-1b9436124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
 <a href="https://www.facebook.com/nathandulino.dulino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
 <a href="https://www.instagram.com/nathan_andrade.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nathan de Andrade" height="20" width="20" /></a>
