@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-React%20Native-61DAFB.svg?logo=React&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Typescript-007acc.svg?logo=Typescript&style=flat-square&logoColor=white" />
 </p>
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Andrade&layout=compact"/> 
