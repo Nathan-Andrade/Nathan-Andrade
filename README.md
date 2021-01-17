@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nathandulino2003@gmail.com
 
 <p align="left">
-
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
