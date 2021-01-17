@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML5-ec6231.svg?logo=Html5&style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-007acc.svg?logo=Css3&style=flat-square" />
 <img src="https://img.shields.io/badge/-Javascript-FFD700.svg?logo=Javascript&style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-8a2be2.svg?logo=Bootstrap&style=flat-square&logoColor=white" />
 </p>
 
 <h3>Learning</h3>
