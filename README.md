@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong> HTML5, CSS3, JavaScript </strong>
 - 📫 How to reach me: nathandulino2003@gmail.com
 
-<p align="left">
-
 <h3>Learning</h3>
+<p align="left">
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" />
