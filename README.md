@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nathan de Andrade
+<h1 align="center"> Hi there 👋, I'm Nathan de Andrade </h1>
 
 <!--
 **Nathan-Andrade/Nathan-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## A Fullstack Web Development student and focused on helping people
+<h2 align="center"> A Fullstack Web Development Student <br> & <br> focused on helping people </h2>
 
 <h3 align="center">🚀 Ask me about</h3>
 <p align="center">
