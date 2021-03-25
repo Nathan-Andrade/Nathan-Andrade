@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Nathan de Andrade 👨‍💻</h1>
+<h1 align="center"> Hello there 👋, I'm Nathan de Andrade 👨‍💻</h1>
 
 <!--
 **Nathan-Andrade/Nathan-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
